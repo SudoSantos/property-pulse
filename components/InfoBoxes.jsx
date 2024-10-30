@@ -15,8 +15,7 @@ const InfoBoxes = () => {
               backgroundColor: "bg-black",
             }}
           >
-            Find your dream rental property.
-             Bookmark properties and contact
+            Find your dream rental property. Bookmark properties and contact
             owners.
           </InfoBox>
 
@@ -29,8 +28,8 @@ const InfoBoxes = () => {
               backgroundColor: "bg-blue-500",
             }}
           >
-           List your properties and reach potential tenants.
-            Rent as an Airbnb or long term.
+            List your properties and reach potential tenants. Rent as an Airbnb
+            or long term.
           </InfoBox>
         </div>
       </div>

@@ -6,6 +6,7 @@ import { FaBed, FaBath, FaRulerCombined, FaMoneyBill, FaMapMarker} from 'react-i
 const PropertyCard = ({ property }) => {
   const getRateDisplay = () => {
     const { rates } = property;
+    console.log("rates: ", rates)
 
     if (rates.monthly) {
       return `${rates.monthly.toLocaleString()}/mo`;
