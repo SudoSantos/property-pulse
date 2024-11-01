@@ -71,7 +71,7 @@ const PropertyPage = () => {
                   {/* <!-- Contact Form --> */}
                   <div className="bg-white p-6 rounded-lg shadow-md">
                     <h3 className="text-xl font-bold mb-6">
-                      Contact Property Manager
+                      Contact Property Manager,
                     </h3>
                     <form>
                       <div className="mb-4">
